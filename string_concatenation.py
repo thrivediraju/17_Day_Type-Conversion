@@ -4,9 +4,9 @@
 # print(type(c))
 # print(type(d))
 
-# print(a+c) # TypeError
-# print(a+d) # TypeError
-# print(a+b) # hipy
+# print(a+c) #TypeError
+# print(a+d) #TypeError
+# print(a+b) #hipy
 
 # a='hi' ;  b='py' ; c=2 ; d=5.6
 # print(a,c)  # hi 2
@@ -19,7 +19,7 @@
 # print(''.isspace())
 # print('b'.isspace())
 # print(' '.isspace())
-# print('    '.isspace())
+# print('   '.isspace())
 
 
 # print('h'  'i')  # hi
