@@ -24,8 +24,8 @@
 
 # print('h'  'i')  # hi
 # print('h '  'i')  # h i
-# print('h'  ' i')  # h i
-# print('h' , 'i')  # h i
+# print('h'   ' i')  # h i
+# print('h','i')  # h i
 
 # print('h'+'i')  # hi
 # print('h'+''+'i')  # hi
